@@ -10,11 +10,11 @@ _Objetivo General_
 
 _Objetivos Específicos_
 
--Comprender la forma de representar de forma rectangular a polar y viceversa los diferentes problemas
+- Comprender la forma de representar de forma rectangular a polar y viceversa los diferentes problemas
 
--Verificar los resultados al aplicar todas las operaciones basicas de numeros complejos tales como la suma, resta, multiplicacion y division.
+- Verificar los resultados al aplicar todas las operaciones basicas de numeros complejos tales como la suma, resta, multiplicacion y division.
 
--Comparas los resultados analiticos con los de una calculadora cientifica.
+- Comparas los resultados analiticos con los de una calculadora cientifica.
 
 **2. MARCO TEÓRICO**
 
