@@ -39,7 +39,9 @@ _Objetivos Específicos_
 ![3_c](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/3_c.png)    
 
 4.4 Resuelva las operaciones anteriores por medio de la calculadora y compare los resultados:      
-![4](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/4.png)
+![4](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/4.png)       
+
+Como se puede observar los resultados obtenidos analíticamente son muy parecidos a los resultados obtenidos por la calculadora científica, la diferencia es de décimas y esto se debe a que al momento de trabajar analíticamente se usan solo dos décimas para los cálculos mientras que la calculadora arroja un valor más exacto ya que trabajo con todas las décimas.
 
 
 
