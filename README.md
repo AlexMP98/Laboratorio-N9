@@ -26,7 +26,21 @@ _Objetivos Específicos_
 
 
 
-**4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**   
+**4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**     
+4.1 Transforme a su forma polar:     
+![1](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/1.png)     
+     
+4.2 Transforme a su forma rectangular:      
+![2](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/2.png)    
+
+4.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar:     
+![3_a](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/3_a.png)       
+![3_b](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/3_b.png)        
+![3_c](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/3_c.png)    
+
+4.4 Resuelva las operaciones anteriores por medio de la calculadora y compare los resultados:      
+![4](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/4.png)
+
 
 
 
