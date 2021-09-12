@@ -18,9 +18,9 @@ _Objetivos Específicos_
 
 **2. MARCO TEÓRICO**
 
+![1](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/1.PNG) 
 
-
-
+![2](https://github.com/AlexMP98/Laboratorio-N9/blob/main/Imagenes/2.PNG) 
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
