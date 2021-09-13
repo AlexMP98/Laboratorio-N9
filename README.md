@@ -6,7 +6,7 @@
 
 _Objetivo General_
 
-- Analizar los circuitos y problemas en el dominio de los fasores usando algebra compleja.
+- Analizar los problemas en el dominio de los fasores usando algebra compleja.
 
 _Objetivos Específicos_
 
