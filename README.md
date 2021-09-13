@@ -61,7 +61,8 @@ Link del video: https://youtu.be/i79qxZrUPD8
 
 - La suma y resta de numeros complejos se puede realizar mejor en forma rectangular mientras que la multiplicacion y division es mas factible hacerlo de forma polar. 
 
-**7. BIBLIOGRAFÍA**
+**7. BIBLIOGRAFÍA**     
+H. Robbins, A. y Wilhem C. Miller. (2008). Análisis de circuitos: teoría y prática,Cuarta Edición. Ciudad de México: CENGAGE Learning.
 
 
 
