@@ -6,7 +6,7 @@
 
 _Objetivo General_
 
--Analizar los circuitos y problemas en el dominio de los fasores usando algebra compleja.
+- Analizar los circuitos y problemas en el dominio de los fasores usando algebra compleja.
 
 _Objetivos Específicos_
 
@@ -53,11 +53,11 @@ Como se puede observar los resultados obtenidos analíticamente son muy parecido
 
 **6. CONCLUSIONES**
 
--Trabajar con complejos complica los detalles de calculo,no altera los principios basicos de los problemas y circuitos.
+- Trabajar con complejos complica los detalles de calculo,no altera los principios basicos de los problemas y circuitos.
 
--Con el enfoque de fasores, el analisis de circuitos de ca se maneja de forma similar al analisis de circuitos de cd, y todas las relaciones basicas y teoremas se aplican.
+- Con el enfoque de fasores, el analisis de circuitos de ca se maneja de forma similar al analisis de circuitos de cd, y todas las relaciones basicas y teoremas se aplican.
 
--La suma y resta de numeros complejos se puede realizar mejor en forma rectangular mientras que la multiplicacion y division es mas factible hacerlo de forma polar. 
+- La suma y resta de numeros complejos se puede realizar mejor en forma rectangular mientras que la multiplicacion y division es mas factible hacerlo de forma polar. 
 
 **7. BIBLIOGRAFÍA**
 
