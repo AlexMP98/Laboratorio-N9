@@ -14,7 +14,7 @@ _Objetivos Específicos_
 
 - Verificar los resultados al aplicar todas las operaciones basicas de numeros complejos tales como la suma, resta, multiplicacion y division.
 
-- Comparas los resultados analiticos con los de una calculadora cientifica.
+- Comparar las respuestas conseguidas analiticamente con los de una calculadora cientifica.
 
 **2. MARCO TEÓRICO**
 
