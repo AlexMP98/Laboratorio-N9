@@ -46,7 +46,9 @@ Como se puede observar los resultados obtenidos analíticamente son muy parecido
 
 
 
-**5. VIDEO**       
+**5. VIDEO**          
+
+Link del video: https://youtu.be/i79qxZrUPD8
 
 
 
